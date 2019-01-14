@@ -1,0 +1,14 @@
+D:\Programare\FACULTATE\CRIPTOGRAFIE\ProiectCriptografie\ProiectCriptografie\obj\Debug\ProiectCriptografie.csprojAssemblyReference.cache
+D:\Programare\FACULTATE\CRIPTOGRAFIE\ProiectCriptografie\ProiectCriptografie\obj\Debug\ProiectCriptografie.csproj.CoreCompileInputs.cache
+D:\Programare\FACULTATE\CRIPTOGRAFIE\ProiectCriptografie\ProiectCriptografie\bin\Debug\ProiectCriptografie.exe.config
+D:\Programare\FACULTATE\CRIPTOGRAFIE\ProiectCriptografie\ProiectCriptografie\bin\Debug\ProiectCriptografie.exe
+D:\Programare\FACULTATE\CRIPTOGRAFIE\ProiectCriptografie\ProiectCriptografie\bin\Debug\ProiectCriptografie.pdb
+D:\Programare\FACULTATE\CRIPTOGRAFIE\ProiectCriptografie\ProiectCriptografie\obj\Debug\ProiectCriptografie.exe
+D:\Programare\FACULTATE\CRIPTOGRAFIE\ProiectCriptografie\ProiectCriptografie\obj\Debug\ProiectCriptografie.pdb
+D:\Programare\FACULTATE\CRIPTOGRAFIE\ProiectCriptografie(Caesar , rot13)\ProiectCriptografie\bin\Debug\ProiectCriptografie.exe.config
+D:\Programare\FACULTATE\CRIPTOGRAFIE\ProiectCriptografie(Caesar , rot13)\ProiectCriptografie\bin\Debug\ProiectCriptografie.exe
+D:\Programare\FACULTATE\CRIPTOGRAFIE\ProiectCriptografie(Caesar , rot13)\ProiectCriptografie\bin\Debug\ProiectCriptografie.pdb
+D:\Programare\FACULTATE\CRIPTOGRAFIE\ProiectCriptografie(Caesar , rot13)\ProiectCriptografie\obj\Debug\ProiectCriptografie.csprojAssemblyReference.cache
+D:\Programare\FACULTATE\CRIPTOGRAFIE\ProiectCriptografie(Caesar , rot13)\ProiectCriptografie\obj\Debug\ProiectCriptografie.csproj.CoreCompileInputs.cache
+D:\Programare\FACULTATE\CRIPTOGRAFIE\ProiectCriptografie(Caesar , rot13)\ProiectCriptografie\obj\Debug\ProiectCriptografie.exe
+D:\Programare\FACULTATE\CRIPTOGRAFIE\ProiectCriptografie(Caesar , rot13)\ProiectCriptografie\obj\Debug\ProiectCriptografie.pdb
